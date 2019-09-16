@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Suimin</title>
+    <link>https://cg-method.github.io/authors/</link>
+      <atom:link href="https://cg-method.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cg-method.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://cg-method.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>すいみん</title>
+      <link>https://cg-method.github.io/authors/%E3%81%99%E3%81%84%E3%81%BF%E3%82%93/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://cg-method.github.io/authors/%E3%81%99%E3%81%84%E3%81%BF%E3%82%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cg-method.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cg-method.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;大学卒業後、CGデザイナーとして3DCGや映像制作を制作。&lt;br /&gt;
+2013年頃からゲーム業界へ。&lt;br /&gt;
+モバイルゲーム開発のテクニカルアーティストとして&lt;br /&gt;
+UI/モーション制作およびDCCツール向けのツール開発もしています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

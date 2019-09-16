@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Suimin</title>
+    <link>https://cg-method.github.io/publication/</link>
+      <atom:link href="https://cg-method.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cg-method.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://cg-method.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Live2D&#43;FaceRigメイキング本</title>
+      <link>https://cg-method.github.io/publication/live2d-facerig/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://cg-method.github.io/publication/live2d-facerig/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/publications/Book_Live2D-FaceRig.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;内容&#34;&gt;内容&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://urx.blue/3TLw&#34; target=&#34;_blank&#34;&gt;リンク&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;初心者向け-vrアプリデザイン実践入門&#34;&gt;[初心者向け] VRアプリデザイン実践入門&lt;/h2&gt;
+
+&lt;p&gt;　* 01　FREE版・Pro版の機能比較&lt;br /&gt;
+　* 02　PSD素材の準備&lt;br /&gt;
+　* 03　アートメッシュについて&lt;br /&gt;
+　* 04　パラメータの調整とメッシュの再調整&lt;br /&gt;
+　* 05　テクスチャについて&lt;/p&gt;
+
+&lt;h2 id=&#34;経験者向け-効率的にlive2dでfacerigモデルを作る方法&#34;&gt;[経験者向け] 効率的にLive2DでFaceRigモデルを作る方法&lt;/h2&gt;
+
+&lt;p&gt;　* 01　Potoshopで設定&lt;br /&gt;
+　* 02　Live2D用に書き出し&lt;br /&gt;
+　* 03　テンプレート適応前の準備&lt;br /&gt;
+　* 04　メッシュの手動編集&lt;br /&gt;
+　* 05　テンプレートの適用&lt;br /&gt;
+　* 06　データの確認と整理&lt;br /&gt;
+　* 07　各パラメータの調整&lt;br /&gt;
+　* 08　物理演算の設定&lt;br /&gt;
+　* 09　Live2Dのデータ書き出し&lt;br /&gt;
+　* 10　FaceRigを起動するまでの設定&lt;/p&gt;
+
+&lt;h2 id=&#34;経験者向け-アプリ用モデルを作る方法&#34;&gt;[経験者向け] アプリ用モデルを作る方法&lt;/h2&gt;
+
+&lt;p&gt;　* 01　アプリ用のモデルについて&lt;br /&gt;
+　* 02　モデル制作の手順&lt;br /&gt;
+　* 03　立体感を出すモデルの作り方&lt;br /&gt;
+　* 04　Live2D便利機能&lt;br /&gt;
+　* 05　データの軽量化対策&lt;br /&gt;
+　* 06　アニメーターの設定&lt;br /&gt;
+　* 07　モーションの制作・書き出し&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
